@@ -1,0 +1,14 @@
+# Stream (Live) Videos over IPFS
+
+看影片與直播挖礦挖礦
+
+## 簡介
+
+Flowchain 基金會與 AI Mining (智鏈科技) 合作，推出 Crypto Night 小聚活動。本期將延續第 1 期的  IPFS/Filecoin 簡介內容，更進一步探討 IPFS 在「視訊串流」與「視訊直播」應用場景的可行性，以及目前的技術成熟度。
+
+## 資訊
+
+時間：2018 年 11 月 21 日 7pm-9pm
+地點：Flowchain 台北總部
+地址：台北市忠孝東路 4 段 178 號 7 樓
+捷運：忠孝敦化站 3 號出口 步行 1 分鐘
