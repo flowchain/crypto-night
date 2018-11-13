@@ -12,6 +12,12 @@ app: views/cryptonight/index.js
 
 Flowchain 基金會與 AI Mining (智鏈科技) 合作，推出 Crypto Night 小聚活動。本期將延續第 1 期的  IPFS/Filecoin 簡介內容，更進一步探討 IPFS 在「視訊串流」與「視訊直播」應用場景的可行性，以及目前的技術成熟度。
 
+本次小聚活動，也將加入 Flowchain/IPFS 的 IoT Blockchain 架構，討論未來去中心化的視訊與直播技術。
+
+## 主題
+
+<TBD>
+
 ## 資訊
 
 * 時間：2018 年 11 月 21 日 7pm-9pm
