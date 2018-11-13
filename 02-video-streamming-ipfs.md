@@ -1,6 +1,12 @@
-# Stream (Live) Videos over IPFS
+---
+layout: cryptonight
+title: Stream (Live) Videos over IPFS
+image: https://2018.moko365.com/static/img/og/og-blk002.png
+description: 看影片與直播挖礦挖礦
+url: /blockchain/blk002-solidity-erc20
+app: views/cryptonight/index.js
+---
 
-看影片與直播挖礦挖礦
 
 ## 簡介
 
@@ -8,7 +14,7 @@ Flowchain 基金會與 AI Mining (智鏈科技) 合作，推出 Crypto Night 小
 
 ## 資訊
 
-時間：2018 年 11 月 21 日 7pm-9pm
-地點：Flowchain 台北總部
-地址：台北市忠孝東路 4 段 178 號 7 樓
-捷運：忠孝敦化站 3 號出口 步行 1 分鐘
+* 時間：2018 年 11 月 21 日 7pm-9pm
+* 地點：Flowchain 台北總部
+* 地址：台北市忠孝東路 4 段 178 號 7 樓
+* 捷運：忠孝敦化站 3 號出口 步行 1 分鐘
