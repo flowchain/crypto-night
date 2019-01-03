@@ -1,0 +1,92 @@
+.wiki-header{margin-top:35px;padding-top:0;margin-bottom:20px}
+.wiki-page a{color:#16a085;text-decoration:none;-webkit-transition:.25s;-moz-transition:.25s;-o-transition:.25s;transition:.25s;-webkit-backface-visibility:hidden}
+.wiki-page a:hover{color:#1abc9c;text-decoration:none}
+
+/*
+ * the configuration is came from Bootstrap 3
+ * support Fancybox image size
+ */
+@media (max-width: 768px) {
+  .wiki-page img {
+    max-width: 420px; 
+  }
+  .wiki-page img:hover {
+    max-width: 420px; 
+  }
+}
+
+@media (min-width: 768px) {
+  .wiki-page img {
+    max-width: 520px;
+  }
+  .wiki-page img:hover {
+    max-width: 680px;
+  }
+}
+
+@media (min-width: 992px) {
+  .wiki-page img {
+    max-width: 680px;
+  }  
+  .wiki-page img:hover {
+    max-width: 800px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .wiki-page img {
+    max-width: 680px;
+  }
+  .wiki-page img:hover {
+    max-width: 800px;
+  }
+}
+
+.wiki-page h1,.wiki-page .h1{font-size:34px}
+.wiki-page h2,.wiki-page .h2{font-size:28px}
+.wiki-page h3,.wiki-page .h3,.wiki-page h4,.wiki-page .h4,.wiki-page h5,.wiki-page .h5,.wiki-page h6,.wiki-page .h6{font-size:20px}
+.wiki-page h1,.wiki-page .h1,.wiki-page h2,.wiki-page .h2,.wiki-page h3,.wiki-page .h3,.wiki-page h4,.wiki-page .h4,.wiki-page h5,.wiki-page .h5,.wiki-page h6,.wiki-page .h6{line-height:2em}
+.wiki-page h1{font-weight:700}
+.wiki-page h2{font-weight:700;margin-top:25px;margin-bottom:20px;padding-bottom:0;border-bottom:1px solid #eee}
+.wiki-page h3{font-weight:700;margin-bottom:4px;margin-top:2px}
+.wiki-page h4{font-weight:500;margin-top:4px}
+.wiki-page h5{font-weight:500}
+.wiki-page h6{font-weight:400}
+.wiki-page p{font-size:18px;line-height:1.8em;margin-top:1.8em}
+.wiki-page li{font-size:18px;line-height:45px;margin-left:1em}
+.wiki-page table{font-size:18px;line-height:25px;border-style:dashed;border-width:1px}
+.wiki-page th{font-size:18px;background-color:silver;border-style:solid;border-width:1px;padding:10px}
+.wiki-page tr td{font-size:18px;border-style:solid;border-width:1px;padding:10px}
+.wiki-page pre{background:#5c5c5c;color:#FFF}
+.wiki-page code{font-size:16px;line-height:28px}
+code,pre{font-family:Monaco, Menlo, Consolas, "Courier New", monospace;font-size:12px;color:#333;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;padding:0 3px 2px}
+code{color:#d14;white-space:nowrap;background-color:#f7f7f9;border:1px solid #e1e1e8;padding:2px 4px}
+pre{display:block;font-size:13px;line-height:20px;word-break:break-all;word-wrap:break-word;white-space:pre-wrap;background-color:#f5f5f5;border:1px solid rgba(0,0,0,0.15);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;margin:0 0 10px;padding:9.5px}
+pre.prettyprint{margin-bottom:20px}
+pre code{color:inherit;white-space:pre-wrap;background-color:transparent;border:0;padding:0}
+
+/**
+ * behaviors
+ */
+.wiki-page .onHover {
+  cursor: pointer;
+}
+
+/* support Fancybox image size */
+@media (min-width: 768px) {
+  .onFancyBox {
+    max-width: 615px; /* 768*0.8 */
+  }
+}
+
+@media (min-width: 992px) {
+  .onFancyBox {
+    max-width: 793px; /* 992*0.8 */
+  }  
+}
+
+@media (min-width: 1200px) {
+  .onFancyBox {
+    max-width: 896px;
+  }
+}
